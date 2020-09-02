@@ -1,0 +1,19 @@
+
+sequelize 连接数据库
+安装：
+npm install --save sequelize
+
+项目发布和运维：
+//pm2 用于NODE.JS的高级生产过程管理器:
+//pm2是一个守护进程管理器，它将帮助您管理和保存您的app
+npm install pm2 -g
+
+
+1.node --> http,异常
+2.web框架, express、hapi、koa、egg
+3.参数校验
+4.ORM, sequelize
+
+api
+web->webserver->router->handler->orm->db
+

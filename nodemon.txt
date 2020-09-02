@@ -1,0 +1,16 @@
+1.安装热启动工具nodemon（监听文件变化，自动重启服务）
+npm  install nodemon -D
+cnpm install -g  nodemon
+2.在package.json的scripts中配置启动项:
+"startbynodemon": "nodemon demo",
+3. 启动：
+npm start
+
+
+nvm 管理node.js版本
+nrm npm源问题
+
+
+Express 安装：
+npm install express -save
+
